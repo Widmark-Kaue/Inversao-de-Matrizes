@@ -1,6 +1,6 @@
 # Inversao-de-Matrizes
 
-Implementação de um código que utiliza a decomposição LU para o cálculo da matriz inversa de uma matriz qualquer (arquivo inv). 
+Implementação de um código que utiliza a decomposição LU para o cálculo da matriz inversa de uma matriz qualquer (arquivo inv - main). 
 
 Também implementa o método numérico da decomposição LU e suas respectivas susbtituições progressivas e regressivas (arquivo LU).
 
